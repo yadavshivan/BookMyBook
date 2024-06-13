@@ -1,0 +1,126 @@
+CRITICAL - 2024-02-05 06:31:21 --> ErrorException: Undefined variable $books
+in APPPATH\Views\admin\addBook.php on line 173.
+ 1 APPPATH\Views\admin\addBook.php(173): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $books', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php', 173)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/addBook', [], true)
+ 5 APPPATH\Controllers\Admin.php(118): view('admin/addBook', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->addBook()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 06:39:56 --> ErrorException: Undefined array key "category_title"
+in APPPATH\Views\admin\addBook.php on line 178.
+ 1 APPPATH\Views\admin\addBook.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "category_title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php', 178)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/addBook', [], true)
+ 5 APPPATH\Controllers\Admin.php(122): view('admin/addBook', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->addBook()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 06:40:30 --> ErrorException: Undefined array key "category_title"
+in APPPATH\Views\admin\addBook.php on line 178.
+ 1 APPPATH\Views\admin\addBook.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "category_title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php', 178)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/addBook', [], true)
+ 5 APPPATH\Controllers\Admin.php(122): view('admin/addBook', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->addBook()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 06:40:32 --> ErrorException: Undefined array key "category_title"
+in APPPATH\Views\admin\addBook.php on line 178.
+ 1 APPPATH\Views\admin\addBook.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "category_title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php', 178)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/addBook', [], true)
+ 5 APPPATH\Controllers\Admin.php(122): view('admin/addBook', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->addBook()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 06:41:03 --> ErrorException: Undefined array key "category_title"
+in APPPATH\Views\admin\addBook.php on line 178.
+ 1 APPPATH\Views\admin\addBook.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "category_title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php', 178)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/addBook', [], true)
+ 5 APPPATH\Controllers\Admin.php(122): view('admin/addBook', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->addBook()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 06:41:05 --> ErrorException: Undefined array key "category_title"
+in APPPATH\Views\admin\addBook.php on line 178.
+ 1 APPPATH\Views\admin\addBook.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "category_title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php', 178)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\addBook.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/addBook', [], true)
+ 5 APPPATH\Controllers\Admin.php(122): view('admin/addBook', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->addBook()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 07:08:53 --> ErrorException: Undefined array key "book_id"
+in APPPATH\Views\books\bookDetail.php on line 603.
+ 1 APPPATH\Views\books\bookDetail.php(603): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "book_id"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\books\\bookDetail.php', 603)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\books\\bookDetail.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('books/bookDetail', [], true)
+ 5 APPPATH\Controllers\BookDetail.php(22): view('books/bookDetail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\BookDetail->bookDetail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookDetail))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 07:10:07 --> ErrorException: Undefined array key "book_id"
+in APPPATH\Views\books\bookDetail.php on line 603.
+ 1 APPPATH\Views\books\bookDetail.php(603): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "book_id"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\books\\bookDetail.php', 603)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\books\\bookDetail.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('books/bookDetail', [], true)
+ 5 APPPATH\Controllers\BookDetail.php(22): view('books/bookDetail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\BookDetail->bookDetail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookDetail))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 07:10:12 --> ErrorException: Undefined array key "book_id"
+in APPPATH\Views\books\bookDetail.php on line 603.
+ 1 APPPATH\Views\books\bookDetail.php(603): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "book_id"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\books\\bookDetail.php', 603)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\books\\bookDetail.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('books/bookDetail', [], true)
+ 5 APPPATH\Controllers\BookDetail.php(22): view('books/bookDetail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\BookDetail->bookDetail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BookDetail))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 13:57:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "LoginRegister.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('LoginRegister.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('LoginRegister', [], true)
+ 3 APPPATH\Controllers\LoginRegister.php(12): view('LoginRegister')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\LoginRegister->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginRegister))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 14:01:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "LoginRegister.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('LoginRegister.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('LoginRegister', [], true)
+ 3 APPPATH\Controllers\LoginRegister.php(12): view('LoginRegister')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\LoginRegister->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginRegister))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-05 14:04:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "LoginRegister.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('LoginRegister.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('LoginRegister', [], true)
+ 3 APPPATH\Controllers\LoginRegister.php(12): view('LoginRegister')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\LoginRegister->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginRegister))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

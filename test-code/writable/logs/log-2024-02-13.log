@@ -1,0 +1,268 @@
+CRITICAL - 2024-02-13 06:32:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(329): view('admin/viewBooks', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:43:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(311): view('admin/viewBooks', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:43:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(311): view('admin/viewBooks', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(311): view('admin/viewBooks', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:46:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(307): view('admin/viewBooks')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:46:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(307): view('admin/viewBooks')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:47:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(307): view('admin/viewBooks')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:47:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(307): view('admin/viewBooks')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:48:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/viewBooks.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/viewBooks.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/viewBooks', [], true)
+ 3 APPPATH\Controllers\Admin.php(307): view('admin/viewBooks')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:57:41 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\admin\view_Books.php on line 24.
+ 1 APPPATH\Views\admin\view_Books.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:58:18 --> ErrorException: Undefined array key "title"
+in APPPATH\Views\admin\view_Books.php on line 25.
+ 1 APPPATH\Views\admin\view_Books.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:58:20 --> ErrorException: Undefined array key "title"
+in APPPATH\Views\admin\view_Books.php on line 25.
+ 1 APPPATH\Views\admin\view_Books.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:58:58 --> ErrorException: Undefined array key "title"
+in APPPATH\Views\admin\view_Books.php on line 25.
+ 1 APPPATH\Views\admin\view_Books.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:59:00 --> ErrorException: Undefined array key "title"
+in APPPATH\Views\admin\view_Books.php on line 25.
+ 1 APPPATH\Views\admin\view_Books.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "title"', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 14:04:27 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 130.
+ 1 APPPATH\Views\admin\view_Books.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 130)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 14:08:43 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 130.
+ 1 APPPATH\Views\admin\view_Books.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 130)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 14:23:11 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 130.
+ 1 APPPATH\Views\admin\view_Books.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 130)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(330): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 14:23:14 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 130.
+ 1 APPPATH\Views\admin\view_Books.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 130)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(330): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 14:23:16 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 130.
+ 1 APPPATH\Views\admin\view_Books.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 130)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(330): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 14:24:06 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 130.
+ 1 APPPATH\Views\admin\view_Books.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 130)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(330): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 14:24:09 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 130.
+ 1 APPPATH\Views\admin\view_Books.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 130)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(330): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 16:57:35 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 135.
+ 1 APPPATH\Views\admin\view_Books.php(135): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 135)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(313): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 17:10:47 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 135.
+ 1 APPPATH\Views\admin\view_Books.php(135): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 135)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(313): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 17:12:31 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 135.
+ 1 APPPATH\Views\admin\view_Books.php(135): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 135)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 17:12:33 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\view_Books.php on line 135.
+ 1 APPPATH\Views\admin\view_Books.php(135): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php', 135)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\view_Books.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/view_Books', [], true)
+ 5 APPPATH\Controllers\Admin.php(310): view('admin/view_Books', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->viewBooks()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 17:28:14 --> ErrorException: Undefined variable $categories
+in APPPATH\Views\admin\editBook.php on line 71.
+ 1 APPPATH\Views\admin\editBook.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $categories', 'C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\editBook.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\code4\\app\\Views\\admin\\editBook.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/editBook', [], true)
+ 5 APPPATH\Controllers\Admin.php(227): view('admin/editBook', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->editBook('16')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,12 @@
+CRITICAL - 2024-01-23 13:01:33 --> Error: Call to a member function setRules() on null
+in APPPATH\Controllers\Register.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Register->save()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-23 13:02:22 --> Error: Call to a member function setRules() on null
+in APPPATH\Controllers\Register.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Register->save()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
